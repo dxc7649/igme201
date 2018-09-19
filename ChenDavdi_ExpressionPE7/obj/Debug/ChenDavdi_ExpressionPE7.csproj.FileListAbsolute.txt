@@ -1,0 +1,14 @@
+Z:\IGMProfile\Desktop\IGME 201\ChenDavdi_ExpressionPE7\bin\Debug\ChenDavdi_ExpressionPE7.exe.config
+Z:\IGMProfile\Desktop\IGME 201\ChenDavdi_ExpressionPE7\bin\Debug\ChenDavdi_ExpressionPE7.exe
+Z:\IGMProfile\Desktop\IGME 201\ChenDavdi_ExpressionPE7\bin\Debug\ChenDavdi_ExpressionPE7.pdb
+Z:\IGMProfile\Desktop\IGME 201\ChenDavdi_ExpressionPE7\obj\Debug\ChenDavdi_ExpressionPE7.csprojAssemblyReference.cache
+Z:\IGMProfile\Desktop\IGME 201\ChenDavdi_ExpressionPE7\obj\Debug\ChenDavdi_ExpressionPE7.csproj.CoreCompileInputs.cache
+Z:\IGMProfile\Desktop\IGME 201\ChenDavdi_ExpressionPE7\obj\Debug\ChenDavdi_ExpressionPE7.exe
+Z:\IGMProfile\Desktop\IGME 201\ChenDavdi_ExpressionPE7\obj\Debug\ChenDavdi_ExpressionPE7.pdb
+C:\Users\94935\Desktop\ChenDavdi_ExpressionPE7\bin\Debug\ChenDavdi_ExpressionPE7.exe.config
+C:\Users\94935\Desktop\ChenDavdi_ExpressionPE7\bin\Debug\ChenDavdi_ExpressionPE7.exe
+C:\Users\94935\Desktop\ChenDavdi_ExpressionPE7\bin\Debug\ChenDavdi_ExpressionPE7.pdb
+C:\Users\94935\Desktop\ChenDavdi_ExpressionPE7\obj\Debug\ChenDavdi_ExpressionPE7.csprojAssemblyReference.cache
+C:\Users\94935\Desktop\ChenDavdi_ExpressionPE7\obj\Debug\ChenDavdi_ExpressionPE7.csproj.CoreCompileInputs.cache
+C:\Users\94935\Desktop\ChenDavdi_ExpressionPE7\obj\Debug\ChenDavdi_ExpressionPE7.exe
+C:\Users\94935\Desktop\ChenDavdi_ExpressionPE7\obj\Debug\ChenDavdi_ExpressionPE7.pdb
